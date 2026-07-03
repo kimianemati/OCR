@@ -22,7 +22,6 @@ RESULT :
 Source      : gray
 
 Text        : ٤٨٦٦٦
-
 ب٢٧
 Filtered    : ب
 
