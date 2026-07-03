@@ -16,6 +16,7 @@ Features:
 -Persian character filtering
 
 Example Output:
+
 RESULT :
 
 Source      : gray
